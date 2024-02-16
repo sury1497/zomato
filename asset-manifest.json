@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zomato/static/css/main.59ad1850.css",
+    "main.js": "/zomato/static/js/main.53d5de96.js",
+    "index.html": "/zomato/index.html",
+    "main.59ad1850.css.map": "/zomato/static/css/main.59ad1850.css.map",
+    "main.53d5de96.js.map": "/zomato/static/js/main.53d5de96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ad1850.css",
+    "static/js/main.53d5de96.js"
+  ]
+}
