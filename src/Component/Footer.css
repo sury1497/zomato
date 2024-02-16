@@ -1,0 +1,21 @@
+.footer-section {
+    background-color: rgb(250, 246, 246);
+}
+
+.zob {
+    font-size: 35px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+li {
+    list-style-type: none;
+    color: rgb(108, 104, 104);
+    font-size: 12px;
+}
+
+
+.foot-headings {
+    font-size: 12px;
+    font-weight: bold;
+}

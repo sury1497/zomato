@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    background-color: #FBFBFB;
+    overflow-x: hidden;
+}
+
+.mealbox {
+    height: 180px;
+    width: 30%;
+    margin-left: 2%;
+    margin-top: 3%;
+    box-shadow: 10px 20px 10px gray;
+    /* float: left; */
+    display: flex;
+    background-color: white;
+
+}
+
+.picfood {
+    width: 125px;
+    height: 100%;
+    border-radius: 15px;
+    /* object-fit: cover; */
+}
+
+.category {
+    display: flex;
+    
+}

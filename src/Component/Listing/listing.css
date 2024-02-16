@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    background-color: #FBFBFB;
+}
+
+
+
+h1 {
+    color: #192F60;
+    font: bolder;
+    font-size: 30px;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.side {
+
+    padding-left: 12px;
+    background-color: #FFFFFF;
+    width: 19%;
+    height: 700px;
+    margin-left: 70px;
+    box-shadow: 0 0 5px 3px #00000029;
+
+}
+
+.Filter {
+    font-size: 18px;
+    color: #192F60;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.location {
+    font-size: 14px;
+    color: #192F60;
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+.loc-tag {
+    outline: none;
+
+}
+
+.react {
+    /* padding-top: 8px; */
+    padding-bottom: 10px;
+    padding-left: 5px;
+    width: 200px;
+    height: 20px;
+
+}
+
+
+.cuis {
+    margin-top: 10px;
+    padding: 4px;
+    color: #192F60;
+
+}
+
+.part-B {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.rect-box {
+    width: 89%;
+    margin-bottom: 20px;
+
+}
+
+.rectangle-1 {
+    width: 100%;
+
+
+    background-color: #FFFFFF;
+    margin-right: 300px;
+    /* margin-bottom: 25px; */
+    box-shadow: 0 0 5px 3px #00000029;
+
+
+}
+
+
+
+.idly-pic {
+    width: 120px;
+
+    height: 120px;
+    /* display: flex; */
+    border-radius: 20px;
+    margin-left: 35px;
+    margin-top: 25px;
+    object-fit: cover;
+}
+
+.rest-name {
+    /* padding: 40px; */
+    color: #192F60;
+    margin-top: 25px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+}
+
+.fort {
+    /* padding: 10px; */
+    color: #192F60;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    font-weight: 550;
+
+
+
+}
+
+.box {
+    display: flex;
+}
+
+.adress {
+    padding-left: 30px;
+    color: #636F88;
+}
+
+.labelDiv {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.line {
+    margin-top: 15px;
+    margin-left: 40px;
+    width: 90%;
+
+
+
+}
+
+.type {
+    margin-left: 40px;
+    margin-top: 30px;
+    padding-bottom: 5px;
+    color: #636F88;
+}
+
+
+.two {
+    margin-left: 40px;
+    /* padding-bottom: 5px; */
+    color: #636F88;
+
+}
+
+.Bakery {
+    margin-left: 70px;
+    color: #192F60;
+
+}
+
+.cost {
+    margin-left: 23px;
+    color: #192F60;
+}
+
+/* .pagination {
+    margin-left: 170px;
+    margin-bottom: 60px;
+
+
+} */
+
+.numb {
+    padding: 15px;
+    size: 20px;
+    margin-left: 8px;
+    background-color: #FFFFFF;
+    color: #8C96AB;
+    border-radius: 10px;
+    border-color: #8C96AB;
+    font-weight: bold;
+    font-size: medium;
+
+}

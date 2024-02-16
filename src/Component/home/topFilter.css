@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    background-color: #FBFBFB;
+}
+
+.icon {
+    height: 130px;
+    width: 130px;
+    font-size: 70px;
+    border-radius: 50%;
+}
+
+.backimg {
+    height: 480px;
+    background-image: linear-gradient(#9D0E0E00, #4F0707), url("https://i.ibb.co/NVQxPB6/food-Wallpaper.png");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.find {
+    color: #FFFFFF;
+}
+
+.location {
+    /* width: 265px; */
+    height: 45px;
+    outline: none;
+}
+
+.restaurants {
+    /* width: 500px; */
+    height: 45px;
+    outline: none;
+
+}
+
+@media screen and (max-width: 576px) {
+
+    .icon {
+        color: #EB2929;
+        font-size: 40px;
+        height: 80px;
+        width: 80px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .symbol {
+        margin-top: 4rem;
+    }
+
+    .backimg {
+        background-image: linear-gradient(#9D0E0E00, #4F0707), url("https://i.ibb.co/NVQxPB6/food-Wallpaper.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 350%;
+    }
+
+}
